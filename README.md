@@ -8,8 +8,8 @@ This repository contains quick reference cheat sheets for **NumPy** and **Pandas
 
 ## 📄 Contents
 
-* [🔢 NumPy Cheat Sheet](./numpy.md) — Array creation, manipulation, indexing, slicing, math functions, linear algebra, and more.
-* [📊 Pandas Cheat Sheet](./pandas.md) — Series & DataFrame basics, selection, filtering, aggregation, grouping, missing data handling, and more.
+* [🔢 NumPy Cheat Sheet](./Numpy.md) — Array creation, manipulation, indexing, slicing, math functions, linear algebra, and more.
+* [📊 Pandas Cheat Sheet](./Pandas.md) — Series & DataFrame basics, selection, filtering, aggregation, grouping, missing data handling, and more.
 
 ---
 
